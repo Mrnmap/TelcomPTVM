@@ -1,0 +1,7 @@
+Goto Terminal
+wget https://raw.githubusercontent.com/mrnamp/TelcomPTVM/main/telecom_Vm_setup.sh
+chmod +x telecom_Vm_setup.sh
+./telecom_Vm_setup.sh
+
+
+Hardware: SDR=> USRP, LimeSDR, BladeRF
